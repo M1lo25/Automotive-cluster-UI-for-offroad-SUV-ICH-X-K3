@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 431aeb4f2fc28d6408531f02b4a28824, type: 3}
+  m_Name: ThemeNight
+  m_EditorClassIdentifier: Assembly-CSharp::ThemeSO
+  BackgroundContent: {r: 0.019607844, g: 0.02745098, b: 0.043137256, a: 1}
+  Background: {r: 0.11764706, g: 0.14901961, b: 0.2, a: 1}
+  PrimaryText: {r: 0.9019608, g: 0.91764706, b: 0.9411765, a: 1}
+  SecondaryText: {r: 0.6039216, g: 0.6431373, b: 0.69803923, a: 1}
+  Accent: {r: 0.78867924, g: 0.44013923, b: 0.0044641574, a: 1}
+  GaugeFill: {r: 0.12156863, g: 0.6392157, b: 0.41568628, a: 1}
+  GaugeBackground: {r: 0.101960786, g: 0.1254902, b: 0.16078432, a: 1}
+  Warning: {r: 0.9411765, g: 0.26666668, b: 0.21960784, a: 1}
